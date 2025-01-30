@@ -2,7 +2,7 @@
 ## Overview
 Welcome to my personal portfolio website! This project showcases my skills and services as a web developer. It is designed to be responsive, modern, and user-friendly, providing visitors with a seamless experience across all devices.
 ## Live Demo
-[View my portfolio live here](tigist-w.netlify.app)
+[View my portfolio live here](https://tigist-w.netlify.app/#web-design)
 
 ## Features
 **Responsive Design:** Works flawlessly on desktops, tablets, and mobile devices.
